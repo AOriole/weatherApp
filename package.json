@@ -1,0 +1,15 @@
+{
+  "name": "20_weatherapp",
+  "version": "1.0.0",
+  "description": "Weather App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AK_Touseef",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
